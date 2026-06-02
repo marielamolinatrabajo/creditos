@@ -6,4 +6,4 @@ Este repositorio contiene visualizaciones interactivas de los créditos otorgado
 
 ## 📍 Mapas disponibles
 
-- [EMPRENDE TOTALES (2024-2025)](https://matiaspiccolo.github.io/créditos/mapa_general_interactivo_EMPRENDE_total.html)
+- [EMPRENDE TOTALES (2024-2025)](https://marielamolinatrabajo.github.io/créditos/mapa_general_interactivo_EMPRENDE_total.html)
